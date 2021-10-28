@@ -35,6 +35,6 @@ Beelyrics is a simple mockup made with HTML and CSS. In this sense, it is possib
 
 ## Application Photos
 
-<img src="./assets/Images/Bee01.PNG">
-<img src="./assets/Images/Bee02.PNG">
+<img src="./Images/Bee01.png">
+<img src="./Images/Bee02.png">
 
